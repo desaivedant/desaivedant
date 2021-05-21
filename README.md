@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **finding disease from early onset of Parkinson**
 
-- 🌱 I’m currently learning **nodejs, react, vue**
+- 🌱 Currently learning **nodejs, react, vue**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **python, Data Science, ML**
+- 💬 Ask me about **Python, Data Science, ML**
 
-- 📫 How to reach me **vedantdesai942000@gmail.com**
+- 📫 Ask here **vedantdesai942000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14LAFpVPJKMtRd7gonLwiVUdtS_0Jt6-f/view](https://drive.google.com/file/d/14LAFpVPJKMtRd7gonLwiVUdtS_0Jt6-f/view)
+- 📄 Here is my CV [https://drive.google.com/file/d/14LAFpVPJKMtRd7gonLwiVUdtS_0Jt6-f/view](https://drive.google.com/file/d/14LAFpVPJKMtRd7gonLwiVUdtS_0Jt6-f/view)
 
-- ⚡ Fun fact **I know it's crazy, but I love to eat…**
+- ⚡ **I know it's crazy, but I love to eat…**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
