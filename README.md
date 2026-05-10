@@ -1,28 +1,141 @@
-<h1 align="center">Hello 👋, I'm Vedant Desai</h1>
-<h3 align="center">Self Learner | Machine Learning Enthusiastic | Experience in Web Development</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **finding disease from early onset of Parkinson**
+```
 
-- 🌱 Currently learning **nodejs, react, vue**
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║   > vedant.desai --status                                        ║
+  ║                                                                  ║
+  ║   ◉ data engineer ▸ ai engineer (in transition)                  ║
+  ║   ◉ vadodara, india · utc+5:30                                   ║
+  ║   ◉ engineering data today. engineering intelligence tomorrow.   ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+```
 
-- 💬 Ask me about **Python, Data Science, ML**
+[![Portfolio](https://img.shields.io/badge/portfolio-vedantdesai.me-6366f1?style=for-the-badge&logoColor=white)](https://vedantdesai.me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-vedantdesai9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantdesai9)
+[![Email](https://img.shields.io/badge/email-vedantdesai942000-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantdesai942000@gmail.com)
+[![X](https://img.shields.io/badge/twitter-@vedantdesai__9-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vedantdesai_9)
 
-- 📫 Ask here **vedantdesai942000@gmail.com**
+</div>
 
-- 📄 Here is my CV [https://drive.google.com/file/d/14LAFpVPJKMtRd7gonLwiVUdtS_0Jt6-f/view](https://drive.google.com/file/d/14LAFpVPJKMtRd7gonLwiVUdtS_0Jt6-f/view)
+---
 
-- ⚡ **I know it's crazy, but I love to eat…**
+### `whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vedantdesai_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="vedantdesai_9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant-desai-92714b176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vedant-desai-92714b176" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vedant-desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="vedant-desai" height="30" width="40" /></a>
-<a href="https://fb.com/vedant.desai.125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="vedant.desai.125" height="30" width="40" /></a>
-<a href="https://instagram.com/vedant_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="vedant_9" height="30" width="40" /></a>
-</p>
+I architect data pipelines that turn enterprise chaos into reliable, ML-ready assets — and I'm now extending that work into the AI layer with **RAG**, **LLM agents**, and **vector retrieval** stacks.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Four years deep into **Microsoft Fabric**, **Azure**, **Databricks**, **PySpark** and **Delta Lake**. Currently shipping a multi-stage **Medallion Architecture** (Bronze → Silver → Gold) at PMC that feeds both BI and ML workloads from the same governed source of truth.
+
+---
+
+### `pipeline.status`
+
+```
+  bronze ──────▶ silver ──────▶ gold ──────▶ ai
+   raw            cleansed       ready         intelligence
+   ▼              ▼              ▼             ▼
+   logs           validated      curated       RAG · agents
+   ingests        conformed      featured      LLM apps
+```
+
+---
+
+### `tech.stack`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🏗️ Data Engineering**
+- Microsoft Fabric · Lakehouse · Warehouse
+- Azure Data Factory · Synapse · Databricks
+- Apache Spark · PySpark · Delta Lake
+- SQL Server · T-SQL · SSIS · MongoDB
+- Power BI · Power Apps · D365
+
+</td>
+<td valign="top" width="50%">
+
+**🤖 AI Engineering (in progress)**
+- LLMs · RAG · Prompt Engineering
+- LangChain · LangGraph · n8n
+- Vector DBs · Embeddings · Retrieval
+- Agentic systems · Eval frameworks
+- MLOps · Fine-tuning
+
+</td>
+</tr>
+</table>
+
+---
+
+### `select * from work`
+
+| 🚀 What I shipped | 📈 Impact |
+|---|---|
+| Medallion Architecture (Bronze/Silver/Gold) on Microsoft Fabric | Single source feeding **both BI + ML** |
+| End-to-end D365 financial ETL automation | **60%** less manual effort, **30%** faster runs |
+| Metadata-driven reusable ETL framework | New pipeline setup time **↓ 40%** |
+| Migrated legacy ETL → Fabric notebooks + Delta | Runtime **↓ 25%** |
+| Spark tuning, partitioning, schema validation | Reconciled aggregates across EDW |
+
+→ Full case studies at **[vedantdesai.me](https://vedantdesai.me)**
+
+---
+
+### `certifications.list()`
+
+[![DP-203](https://img.shields.io/badge/Microsoft-Azure_Data_Engineer_(DP--203)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/VedantDesai/78B293F8D12237E5)
+[![DP-900](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-M001_Basics-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/UMich-Python_Data_Structures-FFCB05?style=flat-square&logo=coursera&logoColor=black)](#)
+
+---
+
+### `currently.learning`
+
+```python
+roadmap = {
+    "✅ done":     ["Python", "Prompt Engineering", "n8n workflows"],
+    "🔄 active":   ["LLM internals", "RAG pipelines", "LangChain/LangGraph", "Vector DBs"],
+    "⏭️ next":     ["Agentic systems", "Eval frameworks", "MLOps", "Fine-tuning"],
+}
+```
+
+---
+
+### `github.stats`
+
+<div align="center">
+
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=desaivedant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=f59e0b)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desaivedant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1)
+
+</div>
+
+---
+
+### `let's.connect()`
+
+I'm always up for conversations about **Medallion Architecture**, **Microsoft Fabric**, **AI-enabled data platforms**, or anyone going through the **Data → AI Engineer transition** themselves.
+
+→ 🌐 **[vedantdesai.me](https://vedantdesai.me)**
+→ 📬 **[vedantdesai942000@gmail.com](mailto:vedantdesai942000@gmail.com)**
+→ 💼 **[linkedin.com/in/vedantdesai9](https://linkedin.com/in/vedantdesai9)**
+
+<div align="center">
+
+```
+  ────────────────────────────────────────────────────
+   "the best engineers don't just build pipelines.
+    they build the intelligence that flows through them."
+  ────────────────────────────────────────────────────
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=desaivedant&style=flat-square&color=6366f1)
+
+</div>
